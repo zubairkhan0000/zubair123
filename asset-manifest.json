@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/zubair123/static/css/main.f96f07a4.css",
-    "main.js": "/zubair123/static/js/main.16246d8a.js",
-    "static/js/592.167abb64.chunk.js": "/zubair123/static/js/592.167abb64.chunk.js",
-    "index.html": "/zubair123/index.html",
-    "main.f96f07a4.css.map": "/zubair123/static/css/main.f96f07a4.css.map",
-    "main.16246d8a.js.map": "/zubair123/static/js/main.16246d8a.js.map",
-    "592.167abb64.chunk.js.map": "/zubair123/static/js/592.167abb64.chunk.js.map"
+    "main.css": "/zubair25/static/css/main.231885e4.css",
+    "main.js": "/zubair25/static/js/main.688e2101.js",
+    "static/js/592.a4a1a5eb.chunk.js": "/zubair25/static/js/592.a4a1a5eb.chunk.js",
+    "index.html": "/zubair25/index.html",
+    "main.231885e4.css.map": "/zubair25/static/css/main.231885e4.css.map",
+    "main.688e2101.js.map": "/zubair25/static/js/main.688e2101.js.map",
+    "592.a4a1a5eb.chunk.js.map": "/zubair25/static/js/592.a4a1a5eb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f96f07a4.css",
-    "static/js/main.16246d8a.js"
+    "static/css/main.231885e4.css",
+    "static/js/main.688e2101.js"
   ]
 }
